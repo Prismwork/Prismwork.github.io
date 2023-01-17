@@ -165,7 +165,7 @@ defaults:
 
 # Disqus comments
 disqus:
-  shortname: "Peakstep"
+  shortname: "prismwork"
 
 # Gitment comments
 # gitment:
