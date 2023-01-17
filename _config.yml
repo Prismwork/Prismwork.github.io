@@ -169,8 +169,8 @@ defaults:
 
 # Gitment comments
 gitment:
-  username: "Prismwork"
-  repo: "Prismwork.github.io"
+  username: "pkstDev"
+  repo: "pkstDev"
   client_id: "a1255a417d11ecf68825"
   client_secret: "107b744dae350fd9ebfb3272ca9801c1925fae11"
 #   redirect_uri: "Your redirect url"   # If you use a custom domain name
