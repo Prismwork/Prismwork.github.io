@@ -164,8 +164,8 @@ defaults:
 # paginate: 5
 
 # Disqus comments
-disqus:
-  shortname: "prismwork"
+# disqus:
+#   shortname: "prismwork"
 
 # Gitment comments
 # gitment:
