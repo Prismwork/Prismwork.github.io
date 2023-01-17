@@ -70,9 +70,9 @@ translate_langs:
     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
     text: 简体中文
 #
-#   - lang: ja
-#     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
-#     text: Japanese
+  - lang: ja
+    img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
+    text: 日本語
 #
 #   - lang: ko
 #     img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
@@ -168,11 +168,11 @@ defaults:
 #   shortname: "Your Disqus username"
 
 # Gitment comments
-# gitment:
-#   username: "Prismwork"
-#   repo: "The repo to store comments"
-#   client_id: "Your client ID"
-#   client_secret: "Your client secret"
+gitment:
+  username: "Prismwork"
+  repo: "Prismwork.github.io"
+  client_id: "a1255a417d11ecf68825"
+  client_secret: "107b744dae350fd9ebfb3272ca9801c1925fae11"
 #   redirect_uri: "Your redirect url"   # If you use a custom domain name
 
 # Build settings
