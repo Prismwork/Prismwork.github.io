@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/jekyll-theme-yat/feed.xml" rel="self" type="application/atom+xml" /><link href="/jekyll-theme-yat/" rel="alternate" type="text/html" hreflang="zh-CN" /><updated>2023-02-03T08:43:26+00:00</updated><id>/jekyll-theme-yat/feed.xml</id><title type="html">Prismwork</title><subtitle>Peakstep &amp; Irisflow's personal site.</subtitle><author><name>Prismwork</name></author><entry><title type="html">Basedron™ —— 炼药锅的未来</title><link href="/jekyll-theme-yat/minecraft/2023/01/27/basedron.html" rel="alternate" type="text/html" title="Basedron™ —— 炼药锅的未来" /><published>2023-01-27T00:00:00+00:00</published><updated>2023-01-27T00:00:00+00:00</updated><id>/jekyll-theme-yat/minecraft/2023/01/27/basedron</id><content type="html" xml:base="/jekyll-theme-yat/minecraft/2023/01/27/basedron.html"><![CDATA[<h3 id="basedron">Basedron™</h3>
+
+<p>你好我的朋友！Basedron™ 是 Prismwork 的最新作品，致力于改变原版炼药锅太拉的事实，让它变成全游戏最<del>丁真</del>屌的物品！</p>
+
+<p>它首先用 Fabric Transfer API 的<del>外星</del>科技重做了炼药锅储存液体的逻辑，现在你可以往里面放入任何液体，而且每种液体也没了三级的限制！</p>
+
+<p>其次我们还将添加更多内容，如炼药锅染色（基岩版是吧）、炼药锅炼药（你猜猜它为什么叫做炼药锅）等！</p>
+
+<p>最后，此模组需要 Quilt，因为我觉得 Fabric 太拉了，哈哈。</p>]]></content><author><name>Prismwork</name></author><category term="minecraft" /><category term="quilt-mod" /><summary type="html"><![CDATA[Basedron™]]></summary></entry><entry><title type="html">Hello world!</title><link href="/jekyll-theme-yat/start/2023/01/16/hello-world.html" rel="alternate" type="text/html" title="Hello world!" /><published>2023-01-16T00:00:00+00:00</published><updated>2023-01-16T00:00:00+00:00</updated><id>/jekyll-theme-yat/start/2023/01/16/hello-world</id><content type="html" xml:base="/jekyll-theme-yat/start/2023/01/16/hello-world.html"><![CDATA[<h3 id="欢迎">欢迎！</h3>
+
+<p>这个网站刚刚设立，因此还有很多不足之处，然而我（Flamarine）和 Irisflow 会尽力维护的！</p>
+
+<p><del>放屁是吧，自己的博客都nm2020年就断更了</del></p>]]></content><author><name>Prismwork</name></author><category term="start" /><category term="prismwork" /><summary type="html"><![CDATA[欢迎！]]></summary></entry></feed>
